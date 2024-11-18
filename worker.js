@@ -29,7 +29,7 @@ export default {
 
       // Fetch the JSON data from the specified URL
       const dataResponse = await fetch(
-        'https://mie.webchartnow.com/webchart.cgi?f=layoutnouser&&name=conferencelist&raw=1&json'
+        'https://mie.webchartnow.com/webchart.cgi?f=layoutnouser&&name=conferencelist&raw=1&json&secret=' + env.DMS_SECRET
       );
 
       // Check if the fetch was successful
