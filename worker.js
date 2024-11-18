@@ -68,7 +68,7 @@ export default {
           </head>
           <body>
             <h1>Meet Not Found</h1>
-            <p>If you're and MIE employee trying to set up a meet URL, <a href="https://docs.google.com/document/d/1wKkzSFmSnH29boLEJsXgPf3QkOoqZqvwGDSIT9tUi8I/edit?usp=sharing">click here</a>.</p>
+            <p>If you're an MIE employee trying to set up a meet URL, <a href="https://docs.google.com/document/d/1wKkzSFmSnH29boLEJsXgPf3QkOoqZqvwGDSIT9tUi8I/edit?usp=sharing">click here</a>.</p>
           </body>
           </html>
         `;
