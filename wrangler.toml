@@ -1,2 +1,6 @@
+# Top-level configuration
+name = "meet"
+main = "worker.js"
+
 [observability]
 enabled = true
