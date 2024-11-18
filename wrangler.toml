@@ -1,6 +1,7 @@
 # Top-level configuration
 name = "meet"
 main = "worker.js"
+compatibility_date = "2024-11-18"
 
 [observability]
 enabled = true
